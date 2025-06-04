@@ -1,8 +1,8 @@
 [
     {
-        "label": "DAILY TOP 50",
-        "url": "https://open.spotify.com/playlist/0jpg9zJAauAVNZB8hL0lRZ?si=32a5df262d6647af",
-        "imagePath": "/images/TOP50GLOBAL.png"
+        "label": "DAILY TOP 200",
+        "url": "https://open.spotify.com/playlist/4oFMXgSsKQhic55zAHOljt?si=680ff1a98fe342c4",
+        "imagePath": "/images/TOP200GLOBAL.png"
     },
     {
         "label": "DAILY TOP 100",
@@ -10,9 +10,9 @@
         "imagePath": "/images/TOP100GLOBAL.png"
     },
     {
-        "label": "DAILY TOP 200",
-        "url": "https://open.spotify.com/playlist/4oFMXgSsKQhic55zAHOljt?si=680ff1a98fe342c4",
-        "imagePath": "/images/TOP200GLOBAL.png"
+        "label": "DAILY TOP 50",
+        "url": "https://open.spotify.com/playlist/0jpg9zJAauAVNZB8hL0lRZ?si=32a5df262d6647af",
+        "imagePath": "/images/TOP50GLOBAL.png"
     },
     {
         "label": "Europop summer dancefloor 🪩",

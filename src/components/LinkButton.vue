@@ -3,14 +3,14 @@
         :href="url"
         target="_blank"
         rel="noopener noreferrer"
-        class="flex items-center gap-4 w-full py-3 px-4 rounded-lg bg-indigo-600 hover:bg-indigo-700 transition-colors text-white font-semibold shadow-md"
+        class="flex items-center gap-5 w-full py-3 px-3 rounded-xl bg-gradient-to-b from-[#2e2e2e] to-gray-90 shadow-[6px_6px_10px_rgba(0,0,0,0.9)]"
     >
         <img
             :src="imagePath"
             alt="playlist thumbnail"
-            class="w-12 h-12 rounded-md object-cover"
+            class="w-20 h-20 rounded-lg"
         />
-        <span class="text-lg">{{ label }}</span>
+        <span class="text-l font-bold">{{ label }}</span>
     </a>
 </template>
 
@@ -21,5 +21,3 @@ defineProps({
     imagePath: String,
 });
 </script>
-
-<style scoped></style>
