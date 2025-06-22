@@ -2,51 +2,61 @@
     {
         "label": "DAILY TOP 200",
         "url": "https://open.spotify.com/playlist/4oFMXgSsKQhic55zAHOljt?si=680ff1a98fe342c4",
+        "button_id": "daily_top_200",
         "imagePath": "/images/TOP200GLOBAL.png"
     },
     {
         "label": "DAILY TOP 100",
         "url": "https://open.spotify.com/playlist/21xmtGN7jfS9EsciL63e05?si=bbe18b7574ad4407",
+        "button_id": "daily_top_100",
         "imagePath": "/images/TOP100GLOBAL.png"
     },
     {
         "label": "DAILY TOP 50",
         "url": "https://open.spotify.com/playlist/0jpg9zJAauAVNZB8hL0lRZ?si=32a5df262d6647af",
+        "button_id": "daily_top_500",
         "imagePath": "/images/TOP50GLOBAL.png"
     },
     {
         "label": "Europop summer dancefloor 🪩",
         "url": "https://open.spotify.com/playlist/5FLUVwnkzDsdTcpUn7b36P?si=68f55f2610744df7",
+        "button_id": "summer_dancefloor",
         "imagePath": "/images/SUMMERHITS.png"
     },
     {
         "label": "Hardcore Workout Motivation💪🏼",
         "url": "https://open.spotify.com/playlist/4vgo1awfbPUytObaBpcL3d?si=4ec27035b7e749b6",
+        "button_id": "workout_motiv",
         "imagePath": "/images/Workout.jpg"
     },
     {
         "label": "CHILL RAP SONGS",
         "url": "https://open.spotify.com/playlist/2EGT6DCKlpxgfhCDFjXOeq?si=e2187a83a3834d2d",
+        "button_id": "chill_rap",
         "imagePath": "/images/chill.jpg"
     },
     {
         "label": "HOT RAP HITS🔥🎧",
         "url": "https://open.spotify.com/playlist/6lHcV1NIF9IA28GLL8kpWq?si=8f6b98e634e44008",
+        "button_id": "hot_rap_hits",
         "imagePath": "/images/RapHits.png"
     },
     {
         "label": "LET OUT INNER DEMONS🔥😈",
         "url": "https://open.spotify.com/playlist/0pMhElaR4Mc2VgrbXNKn1S?si=233ce0588a6a46d9",
+        "button_id": "inner_demons",
         "imagePath": "/images/dmons.png"
     },
     {
         "label": "Sad music to listen to when you're feelin down",
         "url": "https://open.spotify.com/playlist/0cnyhimZXEiYfUIp3nOETS?si=a048f7492afb45a4",
+        "button_id": "sad_music",
         "imagePath": "/images/sad.jpg"
     },
     {
         "label": "Techno French 2025",
         "url": "https://open.spotify.com/playlist/5vmarB9r4eYigSjRQJB3pZ?si=fcb56ccbdc4848bd",
+        "button_id": "techno_french",
         "imagePath": "/images/FRENCHTECHNO2025.png"
     }
 ]

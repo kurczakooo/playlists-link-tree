@@ -58,6 +58,7 @@
                     :key="index"
                     :label="playlist.label"
                     :url="playlist.url"
+                    :button_id="playlist.button_id"
                     :imagePath="playlist.imagePath"
                 />
             </div>
