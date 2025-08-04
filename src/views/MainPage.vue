@@ -59,7 +59,7 @@
                     :label="playlist.label"
                     :url="playlist.url"
                     :button_id="playlist.button_id"
-                    :imagePath="playlist.imagePath"
+                    :image="playlist.image"
                 />
             </div>
         </div>

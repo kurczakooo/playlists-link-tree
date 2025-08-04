@@ -15,16 +15,10 @@
     },
     {
         "label": "DAILY TOP 50",
-<<<<<<< HEAD
         "description": "The most popular songs  in the world right now.  Daily updated playlist of 50 most viral songs from today. You can find global trending hits, tiktok songs &amp; more. Follow for latest tracks and new music every day!",
         "image": "daily_top_50.png",
         "url": "https://open.spotify.com/playlist/0jpg9zJAauAVNZB8hL0lRZ",
         "button_id": "daily_top_50"
-=======
-        "url": "https://open.spotify.com/playlist/0jpg9zJAauAVNZB8hL0lRZ?si=32a5df262d6647af",
-        "button_id": "daily_top_50",
-        "imagePath": "/images/TOP50GLOBAL.png"
->>>>>>> 0ef08d5 (adopted to the new wokflow)
     },
     {
         "label": "DAILY TOP 100",
